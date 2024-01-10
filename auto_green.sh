@@ -9,6 +9,8 @@ echo "// $current_time" >> "$workdir/$filename"
 
 cd $workdir
 
+git pull
+
 git add -A
 
 git commit -m "A commit a day keeps your girlfriend away. ($current_time)"
