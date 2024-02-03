@@ -36,24 +36,4 @@ namespace Project_Catalyst
         }
     }
 }
-// Sat 27 Jan 2024 02:00:01 PM +08
-// Sat 27 Jan 2024 04:00:01 PM +08
-// Sun 28 Jan 2024 10:00:01 AM +08
-// Sun 28 Jan 2024 02:00:01 PM +08
-// Sun 28 Jan 2024 04:00:01 PM +08
-// Mon 29 Jan 2024 10:00:01 AM +08
-// Mon 29 Jan 2024 02:00:01 PM +08
-// Mon 29 Jan 2024 04:00:01 PM +08
-// Tue 30 Jan 2024 10:00:02 AM +08
-// Tue 30 Jan 2024 02:00:01 PM +08
-// Tue 30 Jan 2024 04:00:01 PM +08
-// Wed 31 Jan 2024 10:00:01 AM +08
-// Wed 31 Jan 2024 02:00:01 PM +08
-// Wed 31 Jan 2024 04:00:02 PM +08
-// Thu 01 Feb 2024 10:00:01 AM +08
-// Thu 01 Feb 2024 02:00:01 PM +08
-// Thu 01 Feb 2024 04:00:01 PM +08
-// Fri 02 Feb 2024 10:00:01 AM +08
-// Fri 02 Feb 2024 02:00:01 PM +08
-// Fri 02 Feb 2024 04:00:01 PM +08
-// Sat 03 Feb 2024 10:00:01 AM +08
+// Sat 03 Feb 2024 02:00:01 PM +08
