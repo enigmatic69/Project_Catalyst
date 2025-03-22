@@ -36,24 +36,4 @@ namespace Project_Catalyst
         }
     }
 }
-// Sat Mar 15 02:00:01 PM CET 2025
-// Sat Mar 15 04:00:01 PM CET 2025
-// Sun Mar 16 10:00:01 AM CET 2025
-// Sun Mar 16 02:00:01 PM CET 2025
-// Sun Mar 16 04:00:01 PM CET 2025
-// Mon Mar 17 10:00:01 AM CET 2025
-// Mon Mar 17 02:00:01 PM CET 2025
-// Mon Mar 17 04:00:01 PM CET 2025
-// Tue Mar 18 10:00:01 AM CET 2025
-// Tue Mar 18 02:00:01 PM CET 2025
-// Tue Mar 18 04:00:01 PM CET 2025
-// Wed Mar 19 10:00:01 AM CET 2025
-// Wed Mar 19 02:00:01 PM CET 2025
-// Wed Mar 19 04:00:01 PM CET 2025
-// Thu Mar 20 10:00:01 AM CET 2025
-// Thu Mar 20 02:00:01 PM CET 2025
-// Thu Mar 20 04:00:01 PM CET 2025
-// Fri Mar 21 10:00:01 AM CET 2025
-// Fri Mar 21 02:00:01 PM CET 2025
-// Fri Mar 21 04:00:01 PM CET 2025
-// Sat Mar 22 10:00:01 AM CET 2025
+// Sat Mar 22 02:00:01 PM CET 2025
