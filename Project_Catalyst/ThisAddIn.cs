@@ -36,24 +36,4 @@ namespace Project_Catalyst
         }
     }
 }
-// Sat May  9 02:00:01 PM UTC 2026
-// Sat May  9 04:00:01 PM UTC 2026
-// Sun May 10 10:00:01 AM UTC 2026
-// Sun May 10 02:00:01 PM UTC 2026
-// Sun May 10 04:00:01 PM UTC 2026
-// Mon May 11 10:00:01 AM UTC 2026
-// Mon May 11 02:00:01 PM UTC 2026
-// Mon May 11 04:00:01 PM UTC 2026
-// Tue May 12 10:00:01 AM UTC 2026
-// Tue May 12 02:00:01 PM UTC 2026
-// Tue May 12 04:00:01 PM UTC 2026
-// Wed May 13 10:00:01 AM UTC 2026
-// Wed May 13 02:00:01 PM UTC 2026
-// Wed May 13 04:00:01 PM UTC 2026
-// Thu May 14 10:00:01 AM UTC 2026
-// Thu May 14 02:00:01 PM UTC 2026
-// Thu May 14 04:00:01 PM UTC 2026
-// Fri May 15 10:00:01 AM UTC 2026
-// Fri May 15 02:00:01 PM UTC 2026
-// Fri May 15 04:00:01 PM UTC 2026
-// Sat May 16 10:00:01 AM UTC 2026
+// Sat May 16 02:00:01 PM UTC 2026
